@@ -16,6 +16,6 @@ I am currently pursuing an informal qualification using the same cirrculum that 
 These are the courses included:
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       |sdasdasd       |
+| Header      | Title       |- [ ]       |
 | Paragraph   | Text        | And more      |
 
